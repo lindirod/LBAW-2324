@@ -26,10 +26,10 @@ docker run -it -p 8000:80 --name=lbaw23132 -e DB_DATABASE="lbaw23132" -e DB_SCHE
 
 ## Project Components
 
-* [ER: Requirements Specification](https://git.fe.up.pt/lbaw/lbaw2324/lbaw23132/-/wikis/er)
-* [EBD: Database Specification](https://git.fe.up.pt/lbaw/lbaw2324/lbaw23132/-/wikis/ebd)
-* [EAP: Architecture Specification and Prototype](https://git.fe.up.pt/lbaw/lbaw2324/lbaw23132/-/wikis/eap)
-* [PA: Product and Presentation](https://git.fe.up.pt/lbaw/lbaw2324/lbaw23132/-/wikis/pa)
+* [ER: Requirements Specification](LBAW-2324\wikis\er.md)
+* [EBD: Database Specification](LBAW-2324\wikis\ebd.md)
+* [EAP: Architecture Specification and Prototype](LBAW-2324\wikis\eap.md)
+* [PA: Product and Presentation](LBAW-2324\wikis\pa.md)
 
 ---
 Project done by Gustavo Brandão, Inês Silva, Linda Inês Rodrigues (up202005545@edu.fc.up.pt) and Luís Henrique Ganço.
