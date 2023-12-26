@@ -1,0 +1,1 @@
+document.getElementById("slidemenu-profile").addEventListener("click",function(){document.querySelector(".popup-prof").style.display="flex"}),document.querySelector(".close-prof").addEventListener("click",function(){document.querySelector(".popup-prof").style.display="none"});
